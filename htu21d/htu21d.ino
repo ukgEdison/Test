@@ -1,4 +1,4 @@
-#include <SparkFunHTU21D.h>
+#include <SparkFunHTU21D.h>                  //скачиваем библиотеку
 
 #include <Wire.h>                            // Подключаем библиотеку Wire
 //#include "SparkFunHTU21D.h"                  // Подключаем библиотеку SparkFunHTU21D
